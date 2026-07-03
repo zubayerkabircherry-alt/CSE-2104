@@ -96,7 +96,7 @@ int main(void)
     cout<<endl<< "Please enter the Book ID you want to search: ";
     cin >> item; 
     
-    cout << "\nThe following answer is:";
+    cout <<endl<< "The following answer is:";
     binarySearch();
     cout << endl;
     lowerBound();
